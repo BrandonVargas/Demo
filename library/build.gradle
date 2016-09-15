@@ -1,0 +1,21 @@
+apply plugin: 'com.android.library'
+
+dependencies {}
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.2"
+
+    defaultConfig {
+        versionCode 1
+        versionName version
+        minSdkVersion 21
+        targetSdkVersion 24
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_7
+        targetCompatibility JavaVersion.VERSION_1_7
+    }
+
+}

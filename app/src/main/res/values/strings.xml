@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="LEFT">left</string>
+    <string name="RIGHT">right</string>
+    <string name="TOP">top</string>
+    <string name="BOTTOM">bottom</string>
+    <string name="IMAGE">image</string>
+</resources>
